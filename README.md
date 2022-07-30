@@ -1,5 +1,7 @@
 # アルゴリズムと数学の学習
 
+- repository：https://github.com/ka-yamao/algo-math
+
 ## C 言語のコンパイル、実行
 
 - 参考サイト https://zenn.dev/cohky/articles/mac-clang-environment
