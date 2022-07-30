@@ -24,3 +24,4 @@ g++ -o main main.cpp && ./main
 
 - https://atcoder.jp/contests/abs
 - https://qiita.com/drken/items/fd4e5e3630d0f5859067
+- https://code.visualstudio.com/docs/cpp/config-clang-mac
